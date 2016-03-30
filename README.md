@@ -9,7 +9,7 @@ Logapps invites your team to solve the following two-part problem set within the
 ### Part 1
 
 Using NLP in Java or Python decompose the paragraphs and sentences attached in Appendix 1 
-[to include subject(s), verb(s), object(s), etc.] and export to a table using the same format in example 1.
+[to include subject(s), verb(s), object(s), etc.] and export to a table using the same format in example 1. It may help to download the Natural Language Toolkit in order to complete this exercise (http://www.nltk.org/).
 
 * See [Table 2](#table-2) for clarification. 
 
