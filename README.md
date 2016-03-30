@@ -1,7 +1,7 @@
 # Logapps-TribeHacks-Challenge-2016
 ![alt tag](http://static1.squarespace.com/static/558ad739e4b0691bf6ef2d36/t/55fc3e89e4b039f7eac27f68/1459186648029/?format=400w)
 
-Logapps invites your team to solve the following two-part problem set within the guidelines. By the end of this exercise, your team will gain knowledge in Natural Language Processing (NLP) and string searching algorithms.  No prior knowledge in NLP is required, but teammates should have reasonable programming ability using Java or Python and making tables and graphing data structures. 
+Logapps invites your team to solve the following two-part problem set within the guidelines. By the end of this exercise, your team will gain knowledge in Natural Language Processing (NLP) and string searching algorithms.  No prior knowledge in NLP is required, but teammates should have reasonable programming ability using Java or Python and making tables and graphing data structures. It my help to download the Natural Language Toolkit (http://www.nltk.org/).
 
 
 ## Problem
