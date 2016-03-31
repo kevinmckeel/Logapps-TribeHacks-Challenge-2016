@@ -3,13 +3,15 @@
 
 Logapps invites your team to solve the following two-part problem set within the guidelines. By the end of this exercise, your team will gain knowledge in Natural Language Processing (NLP) and string searching algorithms.  No prior knowledge in NLP is required, but teammates should have reasonable programming ability using Java or Python and making tables and graphing data structures.  
 
+ We suggest TribeHack participants download NLTK (http://www.nltk.org/) and view the Stanford CoreNLP suite of tools (http://stanfordnlp.github.io/CoreNLP/index.html).
+
 
 ## Problem
 
 ### Part 1
 
 Using NLP in Java or Python decompose the paragraphs and sentences attached in Appendix 1 
-[to include subject(s), verb(s), object(s), etc.] and export to a table using the same format in example 1. We suggest TribeHack participants download NLTK (http://www.nltk.org/) and view the Stanford CoreNLP suite of tools (http://stanfordnlp.github.io/CoreNLP/index.html).
+[to include subject(s), verb(s), object(s), etc.] and export to a table using the same format in example 1.
 
 * See [Table 2](#table-2) for clarification. 
 
