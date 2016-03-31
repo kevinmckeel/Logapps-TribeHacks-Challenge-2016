@@ -25,11 +25,12 @@ Using Table 1 Key Words and the Business Rules below, expand on the table genera
 
 1. Must use Java or Python
 2. Use NLP to breakdown the sentences 
-3. If the sentence has the same verb as the preceding sentence, then do not account for the verb 
+3. Only consider verbs. For example, if 'record' is used as a noun in a sentence, do not count it.
+4. If the sentence has the same verb as the preceding sentence, then do not account for the verb 
 numbers from the reference table for the second sentence
-4. If the proper name (noun) is similar to a key word verb, then do not count it
-5. If the object noun is similar to a key word verb, then do not count it
-6. Any keyword verb that follows within brackets, then do not count it
+5. If the proper name (noun) is similar to a key word verb, then do not count it
+6. If the object noun is similar to a key word verb, then do not count it
+7. Any keyword verb that follows within brackets, then do not count it
 
 ## Inputs
 
